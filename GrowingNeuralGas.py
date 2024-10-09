@@ -4,7 +4,6 @@ that learns the topologies in the given input data.
 
 See e.g. followning documents references: 
 https://papers.nips.cc/paper/893-a-growing-neural-gas-network-learns-topologies.pdf
-http://www.booru.net/download/MasterThesisProj.pdf
 """
 
 from FeatureGraph.graph import Graph
